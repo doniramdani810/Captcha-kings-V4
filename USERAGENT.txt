@@ -1,19 +1,9 @@
-Mozilla/4.0 (compatible; MSIE 11.0; Windows NT 6.3; Trident/7.0)
-Mozilla/3.0 (compatible; MSIE 2.0; Windows 3.1)
-Mozilla/4.0 (compatible; MSIE 4.01; Windows NT 5.0)
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt)
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
-Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; T312461)
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
-Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; .NET CLR 1.0.2914)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)
-Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
-Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.2)
+Mozilla/5.0 (Linux; Android 11; IN2017 Build/RP1A.201105.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36 Instagram 227.0.0.12.117 Android (30/11; 420dpi; 1180x2255; OnePlus; IN2017; OnePlus8TMO; qcom; 
+Mozilla/5.0 (Linux; Android 11; SM-N985F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36 Instagram 227.0.0.12.117 Android (30/11; 420dpi; 1180x2123; samsung; SM-N985F; c2s; exynos990;
+Mozilla/5.0 (X11; Linux Mint i686; rv:64.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Brave/1.5.122
+Mozilla/5.0 (X11; Linux Mint/19.3; x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Brave/1.5.122
+Mozilla/5.0 (X11; Gentoo 2.7; Linux 5.8; x86_64; DoNotTrack) AppleWebKit/537.36 (KHTML, like Gecko) Brave/1.14.81 Chrome/85.0.4183.102 Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Safari/537.36 Instagram 172.0.0.21.123 Android (27/8.1.0; 320dpi; 1800x2448; Google/google; Pixel C; dragon; drago
+Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.86 Safari/537.36 Instagram 178.1.0.37.123 Android (27/8.1.0; 320dpi; 1800x2448; Google/google; Pixel C; dragon; drago
+Mozilla/5.0 (Linux; Android 8.1.0; Pixel C Build/OPM8.190605.005; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.90 Safari/537.36 Instagram 179.0.0.31.132 Android (27/8.1.0; 320dpi; 1800x2448; Google/google; Pixel C; dragon; drago
+Mozilla/5.0 (Linux; Android 11; IN2017 Build/RP1A.201105.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Mobile Safari/537.36 Instagram 227.0.0.12.117 Android (30/11; 420dpi; 1180x2255; OnePlus; IN2017; OnePlus8TMO; qcom;
